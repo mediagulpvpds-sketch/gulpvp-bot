@@ -1,0 +1,93 @@
+{
+  "1511468094667620502": {
+    "1438083508491915397": {
+      "count": 0,
+      "history": [
+        {
+          "type": "warn",
+          "amount": 0.5,
+          "reason": "1",
+          "moderator": "260id",
+          "date": "03.06.2026 06:23"
+        },
+        {
+          "type": "warn",
+          "amount": 0.5,
+          "reason": "1",
+          "moderator": "260id",
+          "date": "03.06.2026 07:44"
+        },
+        {
+          "type": "warn",
+          "amount": 1.0,
+          "reason": "1",
+          "moderator": "260id",
+          "date": "03.06.2026 07:44"
+        },
+        {
+          "type": "unwarn",
+          "amount": 0.5,
+          "moderator": "260id",
+          "date": "03.06.2026 07:45"
+        },
+        {
+          "type": "unwarn",
+          "amount": "all",
+          "moderator": "260id",
+          "date": "03.06.2026 07:45"
+        },
+        {
+          "type": "warn",
+          "amount": 1.0,
+          "reason": "1",
+          "moderator": "260id",
+          "date": "03.06.2026 07:46"
+        },
+        {
+          "type": "unwarn",
+          "amount": "all",
+          "moderator": "260id",
+          "date": "03.06.2026 08:01"
+        },
+        {
+          "type": "warn",
+          "amount": 0.5,
+          "reason": "1",
+          "moderator": "260id",
+          "date": "03.06.2026 08:03"
+        },
+        {
+          "type": "unwarn",
+          "amount": "all",
+          "moderator": "260id",
+          "date": "03.06.2026 17:58"
+        },
+        {
+          "type": "warn",
+          "amount": 0.5,
+          "reason": "дау",
+          "moderator": "260id",
+          "date": "03.06.2026 17:58"
+        },
+        {
+          "type": "unwarn",
+          "amount": "all",
+          "moderator": "260id",
+          "date": "03.06.2026 17:58"
+        }
+      ]
+    },
+    "1511467468173086740": {
+      "count": 0.5,
+      "history": [
+        {
+          "type": "warn",
+          "amount": 0.5,
+          "reason": "1",
+          "moderator": "260id",
+          "date": "03.06.2026 07:46"
+        }
+      ]
+    }
+  }
+}
